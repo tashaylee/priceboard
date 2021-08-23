@@ -1,3 +1,12 @@
+# About Pracker
+Pracker is a price tracking board that displays multiple companies' prices for any product. The client(ideally a company) creates an entry on the board containing information about themselves, along with Product information. Pracker also allows companies to easily restore the previous price point of their product.
+
+--
+# UML Diagram
+![PriceTracker UML](PriceBoard%20UML.png)
+
+--
+
 # Project Template
 
 This is a Java Maven Project Template
@@ -102,7 +111,3 @@ mvn checkstyle:checkstyle
 ```bash
 target/site/checkstyle.html
 ```
-
-
-
-
